@@ -1,0 +1,33 @@
+{
+  "project": {
+    "projectSettingsVersion": "1.0",
+    "creationData": {
+      "type": "Demo",
+      "src": "http://edge-intel.s3.amazonaws.com/samples/production/sample-canvas-touch-draw/sample.zip",
+      "projectGuid": "8e40fc06-a265-4f3a-865d-ffc76c05f560",
+      "lastModifiedDate": 1399505310427,
+      "creationDate": 1399505310392
+    },
+    "sourceDirectory": "",
+    "startFile": "index.html",
+    "projectFiles": {},
+    "projectDirectories": {},
+    "libraries": [
+      {
+        "name": "Cordova",
+        "version": "2.9.0",
+        "data": {
+          "default": true
+        }
+      },
+      {
+        "name": "intelXDK",
+        "version": "4.0.0",
+        "data": {
+          "default": true
+        }
+      }
+    ],
+    "serviceMethods": []
+  }
+}

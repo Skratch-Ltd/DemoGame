@@ -1,0 +1,14 @@
+{
+"reponame":"sample-canvas-touch-draw",
+"title":"Canvas Touch Draw",
+"abbr":"HTML5TouchDraw",
+"tooltip":"A sample app using HTML5 canvas to draw using touch or mouse.",
+"description":"A sample app using HTML5 canvas to draw using touch or mouse.",
+"articleUrl":"http://software.intel.com/en-us/html5/articles/touch-drawing-app-using-html5-canvas",
+"keywords":["jQuery", "intel.xdk API", "Apache Cordova* API"],
+"visible" : "true",
+"highlights" : ["jQuery", "intel.xdk API", "Apache Cordova* API"],
+"apppreview":"false",
+"appname":"demo.canvastouchdraw",
+"relname":"4.0.0"
+}
